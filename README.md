@@ -1,4 +1,4 @@
-<h1>Hi, I'm Jordan! <a href="https://www.linkedin.com/in/jordanlozzi/">Cybersecurity Graduate</a>
+<h1>Hi, I'm Jordan! <a href="https://www.linkedin.com/in/jordanlozzi/">Cybersecurity Analyst</a>
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
